@@ -4,3 +4,10 @@
     margin-bottom: auto;
     background-color: aquamarine;
 }
+
+.p{
+    text-align:justify;
+    color: brown;
+    border-style: dashed;
+    border: ;
+}
